@@ -3,7 +3,7 @@
 
 ## Chapter 3
 ### 프리뷰
-[단어 정리]
-Spatial Domain : 공간 도메인
-image plane : 영상 평면
-pixel : 화소
+[단어 정리]<br/>
+Spatial Domain : 공간 도메인<br/>
+image plane : 영상 평면<br/>
+pixel : 화소<br/>
