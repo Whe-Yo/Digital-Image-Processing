@@ -2,3 +2,8 @@
 2022 하계 세미나 디지털 영상 처리
 
 ## Chapter 3
+### 프리뷰
+[단어 정리]
+Spatial Domain : 공간 도메인
+image plane : 영상 평면
+pixel : 화소
