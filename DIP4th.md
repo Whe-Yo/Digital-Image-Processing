@@ -24,7 +24,7 @@ __기억해야 하는 것__
 - 공간의 회선?(Convolution)과 상관관계 원칙을 이해한다.
 - 공간 필터의 주요 타입을 알고 그것들이 어떻게 쓰이는지 이해한다.
 - 공간 필터와 저역 통과 필터?(Low pass filter)의 근본적인 역할의 관계를 안다.
-- 단일 접근?(Single Approach)가 불충분할 경우 개선 메소드?(Enhancement Methods)의 조합을 사용하는 방법을 이해한다.<br/>
+- 단일 접근?(Single Approach)가 불충분할 경우 개선 메소드?(Enhancement Methods)의 조합을 사용하는 방법을 이해한다.<br/><br/>
 
 
 ### 3.1 배경
