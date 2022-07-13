@@ -59,7 +59,7 @@ rectangular : 사각형
 ### 3.1.2 이 장의 예제들에 관하여<br/>
 :clipboard: __단어__ :clipboard:<br/>
 ```
-span : 닿다.<br/>
+span : 닿다.
 
 ```
 <br/>
