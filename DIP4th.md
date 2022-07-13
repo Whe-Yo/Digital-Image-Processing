@@ -1,9 +1,7 @@
-# Digital-Image-Processing-4th
-2022 하계 세미나 디지털 영상 처리
+<h2 align="center">Chapter 3</h2>
 
-## Chapter 3
-### 프리뷰
-__[단어 정리]__<br/>
+## 프리뷰
+:clipboard: __단어 정리__ :clipboard:<br/>
 Spatial Domain : 공간 도메인<br/>
 image plane : 영상 평면<br/>
 transform domain : 변환 도메인 (챕터4, 6)<br/>
@@ -26,10 +24,11 @@ __기억해야 하는 것__
 - 공간 필터와 저역 통과 필터?(Low pass filter)의 근본적인 역할의 관계를 안다.
 - 단일 접근?(Single Approach)가 불충분할 경우 개선 메소드?(Enhancement Methods)의 조합을 사용하는 방법을 이해한다.<br/><br/>
 
+- - -
 
 ### 3.1 배경
 #### 3.1.1 밝기 변환과 공간 필터링의 기초<br/>
-__[단어 정리]__<br/>
+:clipboard: __단어 정리__ :clipboard:<br/>
 implement : 구현하다<br/>
 elementwise : 요소별<br/>
 implementation : 구현<br/>
@@ -52,5 +51,6 @@ __정리__<br/>
 콘트라스트 스트레칭(좌측) : k보다 낮은 r값(밝기 변수)은 변환 함수에 의해 흑색 쪽으로, 높은 r값은 백색 쪽으로 s의 좁은 범위에 압축된다.<br/>
 문턱치 처리(우측) : 콘트라스트 스트레칭과 유사하지만 더욱 극단적이다.<br/><br/>
 
+- - -
 
 #### 3.1.2 이 장의 예제들에 관하여<br/>
