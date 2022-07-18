@@ -79,7 +79,7 @@ new comers : 신규 이민자?
 ## 3.2 기본적 밝기 변환 함수들
 :clipboard: __단어__ :clipboard:<br/>
 ```
-
+denote : 나타내다.
 ```
 <br/>
 
