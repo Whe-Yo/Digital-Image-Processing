@@ -5,6 +5,7 @@
 ```
 Spatial Domain : 공간 도메인
 image plane : 영상 평면
+direct maniplation : 직접 조작
 transform domain : 변환 도메인 (챕터4, 6)
 inverse transform : 역변환
 intensity transformation : 밝기 변환
