@@ -114,7 +114,7 @@ s = L - 1 - r<br/>
 ### 3.2.2 로그 변환<br/>
 :clipboard: __단어__ :clipboard:<br/>
 ```
-
+dominate : 억누르다.
 ```
 <br/>
 
